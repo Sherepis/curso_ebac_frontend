@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Meu nome é Murilo Franczak
+=======
+Meu nome é Murilo Franczak.
+>>>>>>> be673521acc82bbe93ae9a546d40b851395fee0b
